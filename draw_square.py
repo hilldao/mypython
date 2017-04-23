@@ -18,7 +18,7 @@ def draw_rhombus(new_turtle):
     new_turtle.forward(100)
     new_turtle.right(150)
 
-##Draw triaghle    
+##Draw triangle    
 def draw_triangle(length,new_trutle):
     for i in range (1,4):
         new_trutle.forward(length)
